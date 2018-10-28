@@ -1,0 +1,5 @@
+Body 200 100
+Neck 100 150
+Bridge 50 80
+Tuners 40 70
+Pickups 75 25
